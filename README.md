@@ -7,11 +7,10 @@
 
 ## نصب خودکار
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/USERNAME/rebeca-backup/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ggcoder021/rebeca-backup/main/install.sh)
 
-> به‌جای `USERNAME` یوزرنیم گیت‌هاب خودت را قرار بده.
 
----
+--------------------------------------------
 
 ## طریقه صدا کردن
 
@@ -23,6 +22,4 @@ ggbackup
 با همین دستور وارد منوی مدیریت می‌شوی (ارسال فوری، تغییر زمان، تنظیمات و ...).
 
 
----
 
-اگر بخوای، الان نسخه نهایی رو هم با لینک واقعی ریپوی خودت (به‌جای `USERNAME`) شخصی‌سازی می‌کنم.
