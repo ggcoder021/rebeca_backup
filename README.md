@@ -1,4 +1,4 @@
-# بکاپر ربکا | Rebeca Backup
+# بکاپر  |  Backup
 
 `@GGCODER_IR`
 
