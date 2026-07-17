@@ -8,10 +8,4 @@
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/ggcoder021/rebeca-backup/main/install.sh)
 
-## طریقه صدا کردن
-
-```bash
-ggbackup
-
-
 
