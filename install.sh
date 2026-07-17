@@ -6,7 +6,7 @@ BOLD='\033[1m'
 NC='\033[0m'
 
 REPO_USER="ggcoder021"
-REPO_NAME="rebeca-backup"
+REPO_NAME="rebeca_backup"
 BRANCH="main"
 BASE_RAW="https://raw.githubusercontent.com/${REPO_USER}/${REPO_NAME}/${BRANCH}"
 
