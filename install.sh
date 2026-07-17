@@ -39,9 +39,9 @@ cd /opt/rebeca-backup
 
 echo "در حال دریافت فایل‌ها از GitHub..."
 
-curl -fL "${BASE_RAW}/rebeca_backup.py" -o /opt/rebeca-backup/rebeca_backup.py
-curl -fL "${BASE_RAW}/README.md" -o /opt/rebeca-backup/README.md || true
-curl -fL "${BASE_RAW}/LICENSE" -o /opt/rebeca-backup/LICENSE || true
+curl -fL "${BASE_RAW}/rebeca_backup.py" -o /opt/rebeca_backup/rebeca_backup.py
+curl -fL "${BASE_RAW}/README.md" -o /opt/rebeca_backup/README.md || true
+curl -fL "${BASE_RAW}/LICENSE" -o /opt/rebeca_backup/LICENSE || true
 
 chmod +x /opt/rebeca-backup/rebeca_backup.py
 
