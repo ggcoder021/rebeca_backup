@@ -6,6 +6,6 @@
 
 ## نصب خودکار
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/ggcoder021/rebeca-backup/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ggcoder021/rebeca_backup/main/install.sh)
 
 
