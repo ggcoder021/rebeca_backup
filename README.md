@@ -10,7 +10,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/ggcoder021/rebeca-backup/main/
 
 ## طریقه صدا کردن
 
-bash
+```bash
 ggbackup
 
 
